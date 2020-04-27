@@ -1,0 +1,191 @@
+SQL> @nlingutl.sql
+
+NO_OF_MOVIES_WITH_5_STR_RATNG                                                   
+-----------------------------                                                   
+                            3                                                   
+
+
+Table dropped.
+
+
+Table dropped.
+
+
+Table dropped.
+
+
+Table dropped.
+
+
+Table dropped.
+
+
+Table dropped.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table altered.
+
+
+Table altered.
+
+
+Table altered.
+
+
+Table altered.
+
+
+Table altered.
+
+
+Table altered.
+
+
+Table altered.
+
+
+Table altered.
+
+
+Table altered.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+DISTRIBUTORNAME                                                                 
+--------------------------------------------------------------------------------
+Harry Welscher                                                                  
+George Schwimmer                                                                
+
+
+DIRECTOR                                                                        
+--------------------------------------------------------------------------------
+Tom Hanks                                                                       
+
+
+TITLE                                                                           
+--------------------------------------------------------------------------------
+HUSH                                                                            
+
+
+TITLE                                                                           
+--------------------------------------------------------------------------------
+Legally Blonde                                                                  
+
+
+TITLE                                                                           
+--------------------------------------------------------------------------------
+A STAR IS BORN                                                                  
+
+
+NO_OF_MOVIES_WITH_5_STR_RATNG                                                   
+-----------------------------                                                   
+                            3                                                   
+
+SQL> spool off
